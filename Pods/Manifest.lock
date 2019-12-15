@@ -1,0 +1,15 @@
+PODS:
+  - DynamicButton (3.1.0)
+  - UIColor_Hex_Swift (3.0.2)
+
+DEPENDENCIES:
+  - DynamicButton (~> 3.1.0)
+  - UIColor_Hex_Swift (~> 3.0.2)
+
+SPEC CHECKSUMS:
+  DynamicButton: 37968af761a31274aeac427f40204688fa810342
+  UIColor_Hex_Swift: 95f718452092a3efc8a827dffd2c04d3237be02d
+
+PODFILE CHECKSUM: 709317e122b96e2509f89ff1a27f49bcbf8ad1c0
+
+COCOAPODS: 1.2.0
